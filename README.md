@@ -17,10 +17,10 @@ This project is an end-to-end data analysis solution designed to extract critica
    - **Goal**: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 
 ### 2. Set Up Kaggle API
-   - **API Setup**: Obtain your Kaggle API token from [Kaggle](https://www.kaggle.com/) by navigating to your profile settings and downloading the JSON file.
+   - **API Setup**: Obtain our Kaggle API token from [Kaggle](https://www.kaggle.com/) by navigating to our profile settings and downloading the JSON file.
    - **Configure Kaggle**: 
-      - Place the downloaded `kaggle.json` file in your local `.kaggle` folder.
-      - Use the command `kaggle datasets download -d <dataset-path>` to pull datasets directly into your project.
+      - Downloaded `kaggle.json` file in your local `.kaggle` folder.
+      - Use the command `kaggle datasets download -d <dataset-path>` to pull datasets directly into our project.
 
 ### 3. Download Walmart Sales Data
    - **Data Source**: Use the Kaggle API to download the Walmart sales datasets from Kaggle.
@@ -55,19 +55,11 @@ This project is an end-to-end data analysis solution designed to extract critica
    - **Verification**: Run initial SQL queries to confirm that the data has been loaded accurately.
 
 ### 9. SQL Analysis: Complex Queries and Business Problem Solving
-   - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
-     - Revenue trends across branches and categories.
-     - Identifying best-selling product categories.
-     - Sales performance by time, city, and payment method.
-     - Analyzing peak sales periods and customer buying patterns.
-     - Profit margin analysis by branch and category.
-   - **Documentation**: Keep clear notes of each query's objective, approach, and results.
----
+  
 
 
 ## Results and Insights
-
-This section will include your analysis findings:
+This section include our analysis findings:
 - **Sales Insights**: Key categories, branches with highest sales, and preferred payment methods.
 - **Profitability**: Insights into the most profitable product categories and locations.
 - **Customer Behavior**: Trends in ratings, payment preferences, and peak shopping hours.
